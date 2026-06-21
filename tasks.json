@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Complete Python Assignment",
+        "completed": false
+    },
+    {
+        "title": "Prepare MCA Project Report",
+        "completed": false
+    },
+    {
+        "title": "Practice SQL Queries",
+        "completed": true
+    }
+]
